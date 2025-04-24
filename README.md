@@ -5,4 +5,4 @@ Este projeto **simula o preço de imóveis** com base em dados fornecidos pelo *
 **Se encontra abaixo um pequeno artigo explicando mais detalhadamente sobre o projeto**
 
 ## Artigo
-[Simulação de Preços de Imível - Artigo]()
+[Simulação de Preços de Imóvel - Artigo]()
