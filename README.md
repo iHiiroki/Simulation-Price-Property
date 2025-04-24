@@ -1,1 +1,1 @@
-# Simulação de Preço de Imóveis | Real Estate Price Simulation
+# Simulação de Preço de Imóveis
